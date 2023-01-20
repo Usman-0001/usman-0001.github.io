@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@500&display=swap');
+
+
+html {
+	position: relative;
+	width: 1512px;
+	height: 982px;
+
+	background: #646464;
+}
+
+p[class="coolDev"] {
+	position: absolute;
+	width: 283px;
+	height: 28px;
+	left: 95px;
+	top: 19px;
+
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	letter-spacing: 0.03em;
+
+	color: #FFFFFF;
+}
+
+div[class="rectangles"] {
+	position: absolute;
+	width: 565px;
+	height: 24px;
+	left: 473px;
+	top: 40px;
+
+	background: #646464;
+}
+
+
+p[class="menu"] {
+	position: absolute;
+	width: 64.68px;
+	height: 10.22px;
+	left: 1304px;
+	top: 22px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.04em;
+
+	color: #BCBCBC;
+
+}
+
+div[class="menu_button"] {
+	position: absolute;
+	width: 203px;
+	height: 37px;
+	left: 1234px;
+	top: 35px;
+
+	background: #424242;
+	border-radius: 40px;
+}
+
+
+div[class="main_rectangle"] {
+	position: absolute;
+	width: 1342px;
+	height: 702px;
+	left: 95px;
+	top: 116px;
+
+	background: #D9D9D9;
+	border: 5px solid rgba(0, 0, 0);
+	border-radius: 36px;
+}
+
+p[class="text"] {
+	position: absolute;
+	width: 597px;
+	height: 606px;
+	margin-left: 74px;
+	margin-top: 48px;
+	margin-right: 671px;
+	margin-bottom: 48px;
+
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 33px;
+	letter-spacing: 0.03em;
+
+	background: linear-gradient(180deg, #000000 33.34%, rgba(0, 0, 0, 0) 97.89%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+}
+
+img[id="withtext"] {
+	position: absolute;
+	width: 625px;
+	height: 417px;
+	margin-left: 697px;
+	margin-top: 98px;
+	margin-right: 20px;
+
+	border-radius: 25px;
+}
+
+div[class="last_rect"] {
+	position: absolute;
+	width: 1342px;
+	height: 96px;
+	left: 95px;
+	top: 866px;
+
+	background: linear-gradient(180deg, #51CC56 49.48%, rgba(201, 217, 202, 0) 100%);
+	background-blend-mode: lighten;
+	border-radius: 20px;
+}
+
+p[id="text22"] {
+	position: absolute;
+	width: 1214px;
+	height: 28px;
+	margin-left: 54px;
+	margin-top: 20px;
+
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+	letter-spacing: 0.03em;
+
+	color: #000000;
+}
+
+p[id="text23"] {
+	position: absolute;
+	width: 1214px;
+	height: 28px;
+	margin-left: 54px;
+	margin-top: 54px;
+
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+	letter-spacing: 0.03em;
+
+	color: #000000;
+}
+
+button[class="follow"] {
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 299px;
+	height: 62px;
+	margin-left: 969px;
+	margin-top: 20px;
+	margin-right: 74px;
+
+	background: #37B037;
+	border-width: 2px 2px 8px 8px;
+	border-style: solid;
+	border-color: #2F862F;
+	border-radius: 20px;
+
+	font-family: 'Jura';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 28px;
+	letter-spacing: 0.03em;
+	color: white;
+}
+
+img[id="sticker1"] {
+	position: absolute;
+	width: 113px;
+	height: 94px;
+	margin-left: 28px;
+	margin-top: 568px;
+
+	/*background: url(LIGHTNING2.png);*/
+}
+
+img[id="sticker2"] {
+	position: absolute;
+	width: 277px;
+	height: 106px;
+	margin-left: 875px;
+	margin-top: 515px;
+
+	/*background: url(5STAR.png);*/
+}
